@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kathmandu"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            85.305,
+                            27.7172
+                        ],
+                        [
+                            85.325,
+                            27.7272
+                        ],
+                        [
+                            85.335,
+                            27.705
+                        ],
+                        [
+                            85.315,
+                            27.695
+                        ],
+                        [
+                            85.305,
+                            27.7172
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lalitpur"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            85.31,
+                            27.667
+                        ],
+                        [
+                            85.32,
+                            27.677
+                        ],
+                        [
+                            85.34,
+                            27.667
+                        ],
+                        [
+                            85.33,
+                            27.657
+                        ],
+                        [
+                            85.31,
+                            27.667
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bhaktapur"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            85.41,
+                            27.673
+                        ],
+                        [
+                            85.42,
+                            27.683
+                        ],
+                        [
+                            85.43,
+                            27.673
+                        ],
+                        [
+                            85.42,
+                            27.663
+                        ],
+                        [
+                            85.41,
+                            27.673
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
